@@ -32,7 +32,6 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 ```
 
 #### How it looks
-![Image of Tarzan](https://static.wikia.nocookie.net/tarzan/images/1/17/Tarzan_Character.webp/revision/latest/scale-to-width-down/1236?cb=20240714235211)
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
