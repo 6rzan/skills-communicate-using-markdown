@@ -23,8 +23,15 @@ public class PrintHelloWorld {
 
 
 
+# Checklist
+- [x] Wakeup
+- [x] Eat
+- [x] Sleep
+- [ ] Repeat
+
+
+
+
+
 
 IK all of these things, but for fun and it is freeeee (:
-
-
-
